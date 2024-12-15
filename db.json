@@ -1,0 +1,35 @@
+{
+  "route1": [
+    {
+      "success": true,
+      "message": "route1",
+      "data": [],
+      "id": "5582"
+    }
+  ],
+  "route2": [
+    {
+      "success": true,
+      "message": "route2",
+      "data": [],
+      "id": "3bfc"
+    }
+  ],
+  "products": [
+    {
+      "id": "c725",
+      "title": "Buku 1",
+      "price": "5000"
+    },
+    {
+      "id": "31a6",
+      "title": "Buku 2",
+      "price": "10000"
+    },
+    {
+      "title": "Buku 3",
+      "price": "20000",
+      "id": "87d9"
+    }
+  ]
+}
